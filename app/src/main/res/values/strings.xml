@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio_indiv_17_M_5</string>
+    <string name="habitantes_de_pais">Habitantes de %1$s: %2$s</string>
+    <string name="title">Selecciona un país de Sudamérica:</string>
+</resources>
